@@ -1,4 +1,4 @@
-# One-Year Professional Development Plan  
+# Self Study Plan - NLP 
 
 ## Quarter 1: Advanced Transformer Models  
 
@@ -59,9 +59,3 @@
 ### Action Points  
 - Take part in Nvidia’s workshops or courses to stay updated with the latest Riva and NeMo offerings.  
 - Develop a comprehensive understanding of cloud services (AWS, Azure, or Google Cloud) for deploying AI solutions.  
-
-## Continuous Professional Development  
-
-- **Attending Conferences and Workshops:** Engage in industry events like Nvidia’s GTC, ACL, or INTERSPEECH to network and learn.  
-- **Online Courses and Certifications:** Consider advanced-level certifications or nano-degrees in AI and natural language processing from platforms like Coursera, Udacity, or EdX.  
-- **Community Engagement:** Join forums, such as Kaggle, AI Stack Exchange, or Reddit’s ML and DS communities, to exchange knowledge and stay informed about the latest advancements.
